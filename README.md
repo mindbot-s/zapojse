@@ -3,3 +3,4 @@
 _Nápadníček a To-Do českých Pythonistů_
 
 ### ✨ [python.cz/zapojse](http://python.cz/zapojse) ✨
+hi welcom =e here4%
